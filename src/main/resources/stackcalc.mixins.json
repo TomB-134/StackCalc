@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "stackcalc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "ChatScreenMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

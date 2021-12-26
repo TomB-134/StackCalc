@@ -1,0 +1,10 @@
+{
+  "double" : " (Double Chest) + ",
+  "doubles" : " (Double Chests) + ",
+  "shulkerbox" : " (Shulker Box) + ",
+  "shulkerboxes": " (Shulker Boxes) + ",
+  "stack": " (Stack) + ",
+  "stacks" : " (Stacks) + ",
+  "item": " (Item) ",
+  "items": " (Items) "
+}

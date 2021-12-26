@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "stackcalc",
+  "version": "${version}",
+  "name": "StackCalc",
+  "description": "Calculates item quantities in stacks.",
+  "authors": [
+    "TomB_134"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/stackcalc/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "stackcalc.StackCalc"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "stackcalc.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*"
+  }
+}
