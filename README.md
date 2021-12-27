@@ -1,4 +1,5 @@
 # StackCalc
+In development mod that aims to calculate often repeated mathematics when playing minecraft.
 Minecraft mod that calculates item quantities in stacks.
 
 #### Usage
