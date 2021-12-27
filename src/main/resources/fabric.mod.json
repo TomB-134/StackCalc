@@ -13,11 +13,9 @@
   "icon": "assets/stackcalc/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
+    "client": [
       "stackcalc.StackCalc"
-    ],
-    "client": [],
-    "server": []
+    ]
   },
   "mixins": [
     "stackcalc.mixins.json"
